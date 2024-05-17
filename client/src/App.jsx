@@ -10,6 +10,8 @@ import ProfilePage from "./routes/profilePage/profilePage";
 import Login from "./routes/login/login";
 import Register from "./routes/register/register";
 
+
+//hello
 function App() {
   const router = createBrowserRouter([
     {
